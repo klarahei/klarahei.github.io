@@ -4,7 +4,7 @@ project:
 website:
   site-url: https://klarahei.github.io/
   repo-url: https://github.com/klarahei/klarahei.github.io/
-  favicon: Mario.png
+  favicon: mario.png
   title: "Klaralicious"
   navbar:
     left:
