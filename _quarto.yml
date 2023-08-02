@@ -5,7 +5,7 @@ website:
   site-url: https://klarahei.github.io/
   repo-url: https://github.com/klarahei/klarahei.github.io/
   favicon: Schaf.jpg
-  title: "Klaralicious"
+  title: "Klara"
   navbar:
     left:
       - text: "My research"
