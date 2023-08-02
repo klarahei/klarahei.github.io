@@ -3,7 +3,7 @@ title: "Klara"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: mario.png
   links:
     - icon: twitter
       text: twitter
